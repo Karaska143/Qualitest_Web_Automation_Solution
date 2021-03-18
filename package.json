@@ -1,0 +1,27 @@
+{
+  "name": "qualitest-webautomation-solution",
+  "version": "1.0.0",
+  "description": "",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "chai": "^4.3.4",
+    "cucumber": "^5.0.3",
+    "expect": "^24.8.0",
+    "fs-extra": "^1.0.0",
+    "log4js": "^0.6.38",
+    "log4js-protractor-appender": "^1.1.2",
+    "promise-assert": "^1.0.5",
+    "protractor": "7.0.0",
+    "protractor-cucumber-framework": "^6.1.1",
+    "protractor-html-screenshot-reporter": "0.0.21",
+    "protractor-multiple-cucumber-html-reporter-plugin": "^1.7.0"
+  },
+  "devDependencies": {
+    "cucumber-html-reporter": "^4.0.5",
+    "cucumber-parallel": "^2.0.3"
+  },
+  "author": "Qualitest",
+  "license": "ISC"
+}
