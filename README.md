@@ -12,7 +12,7 @@ This is a test automation framework allowing users to create tests using protrac
 To kick off the execution:
 
 protractor Configs/conf.js --params.environment=Env1
-where ENV1 is the required environment to be executed
+#where ENV1 is the required environment to be executed
 
 The package.json file has a list of dependencies needed for our framework. To install all dependencies listed in the file, run npm install command. All the dependencies will get installed in node_modules Folder.
 
